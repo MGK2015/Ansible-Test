@@ -1,0 +1,7 @@
+- name: Create a User
+  user:
+   name: '{{user_name}}'
+   state: present
+   uid: '{{user_uid}}'
+   group: '{{group_name}}'
+   

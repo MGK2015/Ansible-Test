@@ -1,2 +1,5 @@
 ---
 # defaults file for Mark-Test
+group_name: testgrp
+user_name: testusr
+user_id: 1000
